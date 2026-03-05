@@ -1,1 +1,1 @@
-# Python-Projects
+This repository contains my Python projects, showcasing end-to-end workflows in data analysis, machine learning, and practical programming exercises. Each project demonstrates real-world applications and includes code, datasets, and visualizations.
